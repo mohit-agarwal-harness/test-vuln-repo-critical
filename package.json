@@ -1,0 +1,20 @@
+{
+  "name": "test-vuln-repo-critical",
+  "version": "1.0.0",
+  "description": "Test repository with critical and high-severity vulnerabilities including known exploited CVEs",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "axios": "0.19.0",
+    "shell-quote": "1.7.2",
+    "jsonwebtoken": "8.5.1",
+    "xml2js": "0.4.19",
+    "underscore": "1.12.0",
+    "tar": "4.4.13",
+    "node-forge": "0.10.0",
+    "moment": "2.29.1",
+    "express": "4.16.0",
+    "ansi-regex": "5.0.0",
+    "nth-check": "1.0.2"
+  }
+}
