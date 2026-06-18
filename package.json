@@ -18,6 +18,9 @@
     "nth-check": "1.0.2",
     "nock": "14.0.5",
     "react-hotkeys-hook": "4.6.2",
-    "legacy-deps": "file:vendor/legacy-deps"
+    "legacy-deps": "file:vendor/legacy-deps",
+    "vm2": "3.9.11",
+    "jsonpath-plus": "5.0.0",
+    "simple-git": "3.5.0"
   }
 }
