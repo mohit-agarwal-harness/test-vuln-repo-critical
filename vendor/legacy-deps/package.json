@@ -5,6 +5,7 @@
   "description": "Local helper package that pins older copies of shared dependencies so the repo resolves multiple versions of the same package (lodash, axios) within a single target. Used to exercise per-(package,version) finding identification.",
   "dependencies": {
     "lodash": "4.17.0",
-    "axios": "0.18.0"
+    "axios": "0.18.0",
+    "nock": "14.0.10"
   }
 }
