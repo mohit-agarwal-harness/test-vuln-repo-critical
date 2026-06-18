@@ -16,7 +16,7 @@
     "express": "4.16.0",
     "ansi-regex": "5.0.0",
     "nth-check": "1.0.2",
-    "nock": "14.0.5",
+    "nock": "14.0.15",
     "react-hotkeys-hook": "4.6.1",
     "legacy-deps": "file:vendor/legacy-deps"
   }
